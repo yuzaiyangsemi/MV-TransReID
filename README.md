@@ -47,4 +47,6 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 Note that because the Occluded-duke derived from the Dukemtmc, so the scale of Multi-view-duke is equal to Multi-view-Occluded-duke. 
 # Visualzation of multi-view person ReID datasets
 ![](https://github.com/yuzaiyangsemi/MV-TransReID/blob/main/vrfig.1.jpg?raw=true)
+The first column represents occluded RGB Image, the second column represents 3D point cloud object, the rest of the columns represents 3D Multi-view Images. It is clear that 3D space can significantly alleviate the
+problems of occlusion.
 

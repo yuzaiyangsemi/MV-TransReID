@@ -46,4 +46,5 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 
 Note that because the Occluded-duke derived from the Dukemtmc, so the scale of Multi-view-duke is equal to Multi-view-Occluded-duke. 
 # Visualzation of multi-view person ReID datasets
-![](https://github.com/yuzaiyangsemi/MV-TransReID/blob/main/vrfig.1.pdf)
+![](https://github.com/yuzaiyangsemi/MV-TransReID/blob/main/vrfig.1.jpg?raw=true)
+
